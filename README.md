@@ -21,6 +21,7 @@ It includes **Exploratory Data Analysis (EDA)**, **Machine Learning model traini
 - **Pandas & Matplotlib**: For data processing and visualization.  
 
 ## Installation
+## Installation 
 
 1. Clone the repository:
 ```bash

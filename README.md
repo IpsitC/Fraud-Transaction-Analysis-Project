@@ -1,9 +1,12 @@
 # Fraud Transaction Analysis Project
 
 ## Overview
-The **Fraud Transaction Analysis Project** analyzes a credit card transaction dataset to detect patterns, anomalies, and insights about fraudulent activity.
+The **Fraud Transaction Analysis Project** analyzes credit card transactions to detect fraudulent activity.  
+It includes **Exploratory Data Analysis (EDA)**, **Machine Learning model training**, and a **Streamlit dashboard** for interactive fraud detection.
+
 
 ## Features
+- **Fraud vs Normal transaction analysis**: Compares patterns of fraudulent and legitimate transactions to identify anomalies.
 - **Fraudulent Transaction Detection**: Uses machine learning models to classify transactions as fraud or legitimate.  
 - **Interactive Dashboard**: Built with Streamlit, allowing users to visualize fraud trends and test predictions.  
 - **Data Preprocessing**: Cleans, balances, and prepares the dataset for better model performance.  

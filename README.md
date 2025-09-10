@@ -1,7 +1,7 @@
-# Fraud Detection System
+# Fraud Transaction Analysis Project
 
 ## Overview
-The **Fraud Detection System** is a machine learning project that detects fraudulent credit card transactions.  
+The **Fraud Transaction Analysis Project** is a machine learning project that detects fraudulent credit card transactions.  
 It uses classification algorithms, SQL-based analysis, and an interactive Streamlit dashboard to provide accurate predictions and insights into fraud patterns.
 
 ## Features
@@ -53,5 +53,6 @@ streamlit run app/streamlit_app.py
 2. **Visualize Insights:** Use the Streamlit dashboard to explore fraud vs. normal transaction trends.
 
 3. **Run SQL Analysis:** Query the transactions table inside fraud.db for deeper insights.
+
 
 

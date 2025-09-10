@@ -21,9 +21,10 @@ It uses classification algorithms, SQL-based analysis, and an interactive Stream
 ## Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/your-username/FraudDetection.git
- 
+ ```
+
 2. Navigate to the project directory
 ```bash
   cd FraudDetection
@@ -52,4 +53,5 @@ streamlit run app/streamlit_app.py
 2. **Visualize Insights:** Use the Streamlit dashboard to explore fraud vs. normal transaction trends.
 
 3. **Run SQL Analysis:** Query the transactions table inside fraud.db for deeper insights.
+
 

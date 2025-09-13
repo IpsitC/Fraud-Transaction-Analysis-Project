@@ -20,7 +20,6 @@ It includes **Exploratory Data Analysis (EDA)**, **Machine Learning model traini
 - **SQLite**: For storing and analyzing transaction data.  
 - **Pandas & Matplotlib**: For data processing and visualization.  
 
-## Installation
 ## Installation 
 
 1. Clone the repository:

@@ -21,3 +21,11 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Model artifacts (keep only the one used by evaluate.py)
+models/*.joblib
+!models/rf_bundle.joblib
+
+# Experiment outputs
+results/
+
